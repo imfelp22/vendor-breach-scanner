@@ -10,6 +10,16 @@ Vendor risk teams spend significant time manually searching for breach history o
 
 Built by someone working in vendor risk assessment at Fortress Information Security, with a broader interest in applying AI automation and business analytics to security operations workflows.
 
+## Screenshots
+
+![Main Interface](Screenshots/Vendor-Breach-Scanner-1.png)
+
+![Scan Results](Screenshots/Vendor-Breach-Scanner-2.png)
+
+![Breach Details](Screenshots/Vendor-Breach-Scanner-3.png)
+
+![Session Summary](Screenshots/Vendor-Breach-Scanner-4.png)
+
 ---
 
 ## Features
